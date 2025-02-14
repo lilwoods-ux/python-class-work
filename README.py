@@ -12,7 +12,7 @@ b. or :: || :: returns true if one condition is met
 c. not :: ! :: reverses the results e.g a !=  b
 
 Assignment Operators : used to assign values to variables
-a. = : assign x = 4, y = "Austin"
+a. = : assign x = 4, y = "timothy"
 b. += :add and assign , x += 2 ( x= x +2 )
 c. not :: ! :: reverse the results e.g a != b
 
