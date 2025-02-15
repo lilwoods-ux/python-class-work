@@ -17,7 +17,7 @@ print(numbers)
 set_numbers = {1,2,3,4,5}
 print(set_numbers)
 student = {
-    "fullname" : "Austin Omondi",
+    "fullname" : "timothy kipruto",
     "courses" : "Python",
     "studentId" : 37789447,
     "rating" : 5.4,
